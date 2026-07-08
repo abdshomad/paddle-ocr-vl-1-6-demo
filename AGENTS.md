@@ -37,7 +37,7 @@ When a user intentionally asks to test the app:
 - Use browser tools to test the app.
 - Take a screenshot for each sample image, each step, and each variant/option until the OCR result appears.
 - Save screenshots in the `/screenshots/` folder.
-- Use the file naming convention: `{2-digit-numberss}-{steps#}-{variant/options if any}-{slug}.jpg`.
+- Use the file naming convention: `{2-digit-numbers}-{steps#}-{variant/options if any}-{slug}.jpg`.
 
 ## GPU Execution Policy (Mandatory)
 

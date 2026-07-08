@@ -12,6 +12,19 @@ The system is deployed using Docker Compose to orchestrate four services:
 
 Check [docs/architecture.md](docs/architecture.md) and [docs/design.md](docs/design.md) for deeper design notes.
 
+## User Interface & Screenshots
+
+Below are sample screenshots of the running application interface and parsing pipeline:
+
+### 1. Secure Login Page
+![Secure Login Screen](./screenshots/01-01-signin-page.jpg)
+
+### 2. Main Dashboard & OCR Extraction (Content Tab)
+![Dashboard OCR Extraction](./screenshots/03-03-ocr-completed.jpg)
+
+### 3. Layout Analysis & Document Bounding Boxes (Visualization Tab)
+![Layout Parsing Visualization](./screenshots/03-04-ocr-visualization.jpg)
+
 ## Directory Structure
 
 *   [AGENTS.md](AGENTS.md) - Agent guidelines and command references.
